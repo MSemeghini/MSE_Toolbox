@@ -1,0 +1,6 @@
+/Users/mse/Projects/MSE_Toolbox/MSE_Toolbox/bin/Debug/MSE_Toolbox.dll
+/Users/mse/Projects/MSE_Toolbox/MSE_Toolbox/bin/Debug/MSE_Toolbox.dll.mdb
+/Users/mse/Projects/MSE_Toolbox/MSE_Toolbox/obj/Debug/MSE_Toolbox.csprojResolveAssemblyReference.cache
+/Users/mse/Projects/MSE_Toolbox/MSE_Toolbox/obj/Debug/MSE_Toolbox.csproj.CoreCompileInputs.cache
+/Users/mse/Projects/MSE_Toolbox/MSE_Toolbox/obj/Debug/MSE_Toolbox.dll
+/Users/mse/Projects/MSE_Toolbox/MSE_Toolbox/obj/Debug/MSE_Toolbox.dll.mdb
