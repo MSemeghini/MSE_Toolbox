@@ -45,6 +45,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MSE_ToolboxPlugin.cs" />
     <Compile Include="Commands\MSE_ToolboxCommand.cs" />
+    <Compile Include="Commands\AddCircle.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Commands\" />
