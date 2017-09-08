@@ -24,7 +24,7 @@ namespace MSE_Toolbox
             // ---
             RhinoApp.WriteLine("The {0} command will add a line right now.", EnglishName);
 
-            Point3d pt0;
+            Point3d pt0 = Point3d.Unset;
             using (GetPoint getPointAction = new GetPoint())
             {
                 getPointAction.SetCommandPrompt("Please select the start point");
