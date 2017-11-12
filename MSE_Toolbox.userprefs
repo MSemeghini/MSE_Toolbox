@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{74C72E82-BE98-472C-98CB-267303AEA974}|">
   <MonoDevelop.Ide.ItemProperties.MSE__Toolbox PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MSE_Toolbox/Commands/MSE_DeleteShortestCurve.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MSE_Toolbox/Commands/AddCircle.cs">
     <Files>
-      <File FileName="MSE_Toolbox/Commands/MSE_DeleteShortestCurve.cs" Line="18" Column="50" />
-      <File FileName="MSE_Toolbox/MSE_ToolboxPlugin.cs" Line="1" Column="1" />
-      <File FileName="MSE_Toolbox/Commands/AddCircle.cs" Line="8" Column="18" />
+      <File FileName="MSE_Toolbox/MSE_ToolboxPlugin.cs" Line="17" Column="10" />
+      <File FileName="MSE_Toolbox/Commands/AddCircle.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
